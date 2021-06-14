@@ -15,7 +15,7 @@ function Register() {
                  <hr className="w-1/3"/>
              </div>
              <button className="w-80 flex mb-9 h-10 p-2 ml-48 border"><img className="w-4 ml-4 mt-1 mr-6" src="/images/google.png"/>Register with Google</button>
-             <button className="w-80 bg text-white flex h-10 p-2 ml-48 border"><img className="w-4  ml-4 mt-1 mr-6" src="/images/twitter (1).png"/>Register with twitter</button>
+             <button className="w-80 bg-blue-500 text-white  flex h-10 p-2 ml-48 border"><img className="w-4  ml-4 mt-1 mr-6" src="/images/twitter (1).png"/>Register with twitter</button>
          </div>
     )
 }
